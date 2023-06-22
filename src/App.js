@@ -40,7 +40,7 @@ function App() {
 
 
 
-<section className="achievements-section">
+ <section className="achievements-section">
       <h2 className="section-title">Achievements</h2>
       <div className="card-container">
         <div className="card">
@@ -56,11 +56,11 @@ function App() {
           </p>
         </div>
         <div className="card">
-          <h3 className="card-title">Extensive experience in Performance Testing and Engineering</h3>
-          <p className="card-content">
-          Accumulating 17+ years of experience, developing a deep understanding of performance testing methodologies and tools such as VSTS and Load Runner. This experience demonstrates expertise in optimizing application performance and ensuring high-quality deliverables.
-          </p>
-        </div>
+        <h3 className="card-title">Performance testing of WCF applications</h3>
+        <p className="card-content">
+        Conducting performance testing of different services in different modules of a WCF application, including load testing and code profiling. This experience showcases expertise in optimizing application performance and resolving performance bottlenecks.
+        </p>
+      </div>
         
         <div className="card">
           <h3 className="card-title">Implementing an analytical culture for RCA</h3>
@@ -69,8 +69,10 @@ function App() {
           </p>
         </div>
       </div>
+      <div>
+      <button type="button" id='ach'><a href='#'>View More</a></button>
+    </div>
     </section>
-
 
 
   //achivements ----------------------

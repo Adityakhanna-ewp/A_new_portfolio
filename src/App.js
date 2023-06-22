@@ -40,67 +40,36 @@ function App() {
 
 
 
-
-
-      <section className="achievements-section">
+<section className="achievements-section">
       <h2 className="section-title">Achievements</h2>
       <div className="card-container">
         <div className="card">
-          <h3 className="card-title">Achievement 1</h3>
+          <h3 className="card-title">Leading a team of 70+ Performance Test engineers and developers</h3>
           <p className="card-content">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempus mollis dolor vitae fringilla.
+          Currently serving as an Associate Director at Wolters Kluwer India, responsible for managing and mentoring a large team, showcasing strong leadership and organizational skills.
           </p>
         </div>
         <div className="card">
-          <h3 className="card-title">Achievement 2</h3>
+          <h3 className="card-title">Published a book on Performance Testing: </h3>
           <p className="card-content">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempus mollis dolor vitae fringilla.
+          Co-authored ""Performance Testing Unleashed. A Journey from Novice to Expert"", demonstrating expertise and knowledge in the field of performance testing. This achievement highlights the persons thought leadership and contribution to the industry.
           </p>
         </div>
         <div className="card">
-          <h3 className="card-title">Achievement 3</h3>
+          <h3 className="card-title">Extensive experience in Performance Testing and Engineering</h3>
           <p className="card-content">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempus mollis dolor vitae fringilla.
+          Accumulating 17+ years of experience, developing a deep understanding of performance testing methodologies and tools such as VSTS and Load Runner. This experience demonstrates expertise in optimizing application performance and ensuring high-quality deliverables.
           </p>
         </div>
         
         <div className="card">
-          <h3 className="card-title">Achievement 4</h3>
+          <h3 className="card-title">Implementing an analytical culture for RCA</h3>
           <p className="card-content">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempus mollis dolor vitae fringilla.
+          Promoting and driving an analytical culture to perform root cause analysis (RCA) by correlating tool data with various APM tools like App Insight, App Dynamics, Idera, DataDog, etc. This achievement showcases a focus on continuous improvement and optimization.
           </p>
         </div>
       </div>
     </section>
-    <section className="achievements-section">
-    <div className="card-container">
-      <div className="card">
-        <h3 className="card-title">Achievement 1</h3>
-        <p className="card-content">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempus mollis dolor vitae fringilla.
-        </p>
-      </div>
-      <div className="card">
-        <h3 className="card-title">Achievement 2</h3>
-        <p className="card-content">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempus mollis dolor vitae fringilla.
-        </p>
-      </div>
-      <div className="card">
-        <h3 className="card-title">Achievement 3</h3>
-        <p className="card-content">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempus mollis dolor vitae fringilla.
-        </p>
-      </div>
-      <div className="card">
-        <h3 className="card-title">Achievement 3</h3>
-        <p className="card-content">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempus mollis dolor vitae fringilla.
-        </p>
-      </div>
-      
-    </div>
-  </section>
 
 
 
